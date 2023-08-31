@@ -4,7 +4,7 @@
 <p>While studying for the AZ-104 I wanted to document processes and scripts used to understand the exam objectives. The process can be broken down into the following steps:
 <ol>
   <li>Setting up an Azure Account</li>
-  <li>Downloading Azure CLI</li>
+  <li><a href="Azure_CLI.md">Downloading Azure CLI</a></li>
   <ul>
     <li>Connecting Azure CLI to an Azure subscription</li>
     <li>Integrating Azure CLI with VS Code</li>
